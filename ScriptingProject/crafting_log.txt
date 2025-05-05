@@ -1,0 +1,1778 @@
+
+[2025-05-04 23:24:09.157113] Username: theroach, Crafting Level: 78
+ - Spin flax into bowstring
+ - Cut sapphire
+ - Make emerald ring
+ - Blow molten glass into orbs
+ - Craft fire battlestaff
+ - Craft air battlestaff
+
+[2025-05-05 04:24:21.138305] Username: THEROACH, Crafting Level: 78
+ - Spin flax into bowstring
+ - Cut sapphire
+ - Make emerald ring
+ - Blow molten glass into orbs
+ - Craft fire battlestaff
+ - Craft air battlestaff
+
+[2025-05-05 04:39:38.910155] Username: theroach, Crafting Level: 78
+ - Spin flax into bowstring
+ - Cut sapphire
+ - Make emerald ring
+ - Blow molten glass into orbs
+ - Craft fire battlestaff
+ - Craft air battlestaff
+
+[2025-05-05 08:57:43.503577] Username: theroach, Crafting Level: 78
+ - Spin flax into bowstring
+ - Cut sapphire
+ - Make emerald ring
+ - Blow molten glass into orbs
+ - Craft fire battlestaff
+ - Craft air battlestaff
+
+[2025-05-05 09:11:39.129114] Username: theroach, Crafting Level: 78
+
+[2025-05-05 09:17:18.010229] Username: theroach, Crafting Level: 78
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 36}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 3}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 9}
+ - {'name': '', 'level': 11}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 28}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 44}
+ - {'name': '', 'level': 57}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 63}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 73}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 76}
+ - {'name': '', 'level': 77}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 47}
+ - {'name': '', 'level': 48}
+ - {'name': '', 'level': 51}
+ - {'name': '', 'level': 53}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 61}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 4}
+ - {'name': '', 'level': 12}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 33}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 49}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 6}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 24}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 31}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 40}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 70}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 74}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 54}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 75}
+
+[2025-05-05 09:19:27.211666] Username: theroach, Crafting Level: 78
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 36}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 3}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 9}
+ - {'name': '', 'level': 11}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 28}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 44}
+ - {'name': '', 'level': 57}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 63}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 73}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 76}
+ - {'name': '', 'level': 77}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 47}
+ - {'name': '', 'level': 48}
+ - {'name': '', 'level': 51}
+ - {'name': '', 'level': 53}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 61}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 4}
+ - {'name': '', 'level': 12}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 33}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 49}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 6}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 24}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 31}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 40}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 70}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 74}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 54}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 75}
+
+[2025-05-05 09:21:20.998818] Username: theroach, Crafting Level: 78
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 36}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 3}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 9}
+ - {'name': '', 'level': 11}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 28}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 44}
+ - {'name': '', 'level': 57}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 63}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 73}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 76}
+ - {'name': '', 'level': 77}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 47}
+ - {'name': '', 'level': 48}
+ - {'name': '', 'level': 51}
+ - {'name': '', 'level': 53}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 61}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 4}
+ - {'name': '', 'level': 12}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 33}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 49}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 6}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 24}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 31}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 40}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 70}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 74}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 54}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 75}
+
+[2025-05-05 09:23:15.630250] Username: theroach, Crafting Level: 78
+
+[2025-05-05 09:24:39.736982] Username: theroach, Crafting Level: 78
+
+[2025-05-05 09:25:26.354978] Username: theroach, Crafting Level: 78
+
+[2025-05-05 09:26:48.077869] Username: theroach, Crafting Level: 78
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 3}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 25}
+
+[2025-05-05 09:27:56.820860] Username: theroach, Crafting Level: 78
+
+[2025-05-05 09:29:41.200740] Username: theroach, Crafting Level: 78
+
+[2025-05-05 09:29:54.380418] Username: theroach, Crafting Level: 78
+
+[2025-05-05 09:30:11.591117] Username: theroach, Crafting Level: 78
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 36}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 3}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 9}
+ - {'name': '', 'level': 11}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 28}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 44}
+ - {'name': '', 'level': 57}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 63}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 73}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 76}
+ - {'name': '', 'level': 77}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 47}
+ - {'name': '', 'level': 48}
+ - {'name': '', 'level': 51}
+ - {'name': '', 'level': 53}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 61}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 4}
+ - {'name': '', 'level': 12}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 33}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 49}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 6}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 24}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 31}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 40}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 70}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 74}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 54}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 75}
+
+[2025-05-05 09:31:53.457033] Username: theroach, Crafting Level: 78
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 36}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 3}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 9}
+ - {'name': '', 'level': 11}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 28}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 44}
+ - {'name': '', 'level': 57}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 63}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 73}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 76}
+ - {'name': '', 'level': 77}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 47}
+ - {'name': '', 'level': 48}
+ - {'name': '', 'level': 51}
+ - {'name': '', 'level': 53}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 61}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 4}
+ - {'name': '', 'level': 12}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 33}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 49}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 6}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 24}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 31}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 40}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 70}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 74}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 54}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 75}
+
+[2025-05-05 09:37:02.962007] Username: theroach, Crafting Level: 78
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 36}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 3}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 9}
+ - {'name': '', 'level': 11}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 28}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 44}
+ - {'name': '', 'level': 57}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 63}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 73}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 76}
+ - {'name': '', 'level': 77}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 47}
+ - {'name': '', 'level': 48}
+ - {'name': '', 'level': 51}
+ - {'name': '', 'level': 53}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 61}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 4}
+ - {'name': '', 'level': 12}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 33}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 49}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 6}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 24}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 31}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 40}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 70}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 74}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 54}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 75}
+
+[2025-05-05 09:39:03.675859] Username: theroach, Crafting Level: 78
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 10}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 36}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 3}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 19}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 9}
+ - {'name': '', 'level': 11}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 28}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 41}
+ - {'name': '', 'level': 44}
+ - {'name': '', 'level': 57}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 63}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 73}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 76}
+ - {'name': '', 'level': 77}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 47}
+ - {'name': '', 'level': 48}
+ - {'name': '', 'level': 51}
+ - {'name': '', 'level': 53}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 14}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 61}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 68}
+ - {'name': '', 'level': 69}
+ - {'name': '', 'level': 71}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 4}
+ - {'name': '', 'level': 12}
+ - {'name': '', 'level': 26}
+ - {'name': '', 'level': 33}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 46}
+ - {'name': '', 'level': 49}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 1}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 13}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 32}
+ - {'name': '', 'level': 38}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 6}
+ - {'name': '', 'level': 7}
+ - {'name': '', 'level': 8}
+ - {'name': '', 'level': 20}
+ - {'name': '', 'level': 22}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 24}
+ - {'name': '', 'level': 27}
+ - {'name': '', 'level': 29}
+ - {'name': '', 'level': 30}
+ - {'name': '', 'level': 31}
+ - {'name': '', 'level': 34}
+ - {'name': '', 'level': 40}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 42}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 43}
+ - {'name': '', 'level': 56}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 70}
+ - {'name': '', 'level': 55}
+ - {'name': '', 'level': 72}
+ - {'name': '', 'level': 74}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 75}
+ - {'name': '', 'level': 67}
+ - {'name': '', 'level': 18}
+ - {'name': '', 'level': 21}
+ - {'name': '', 'level': 54}
+ - {'name': '', 'level': 58}
+ - {'name': '', 'level': 62}
+ - {'name': '', 'level': 66}
+ - {'name': '', 'level': 16}
+ - {'name': '', 'level': 17}
+ - {'name': '', 'level': 23}
+ - {'name': '', 'level': 5}
+ - {'name': '', 'level': 15}
+ - {'name': '', 'level': 25}
+ - {'name': '', 'level': 35}
+ - {'name': '', 'level': 45}
+ - {'name': '', 'level': 50}
+ - {'name': '', 'level': 60}
+ - {'name': '', 'level': 75}
+
+[2025-05-05 09:41:34.123797] Username: theroach, Crafting Level: 78
+ - {'name': 'Ball of wool', 'level': 1}
+ - {'name': 'Bow string', 'level': 10}
+ - {'name': 'Crossbow string', 'level': 10}
+ - {'name': 'Magic string', 'level': 19}
+ - {'name': 'Rope', 'level': 30}
+ - {'name': 'Strip of cloth', 'level': 10}
+ - {'name': 'Empty sack', 'level': 21}
+ - {'name': 'Drift net', 'level': 26}
+ - {'name': 'Basket', 'level': 36}
+ - {'name': 'Pot', 'level': 1}
+ - {'name': 'Empty cup', 'level': 3}
+ - {'name': 'Pie dish', 'level': 7}
+ - {'name': 'Bowl', 'level': 8}
+ - {'name': 'Empty plant pot', 'level': 19}
+ - {'name': 'Pot lid', 'level': 25}
+ - {'name': 'Leather gloves', 'level': 1}
+ - {'name': 'Leather boots', 'level': 7}
+ - {'name': 'Leather cowl', 'level': 9}
+ - {'name': 'Leather vambraces', 'level': 11}
+ - {'name': 'Leather body', 'level': 14}
+ - {'name': 'Leather chaps', 'level': 18}
+ - {'name': 'Hardleather body', 'level': 28}
+ - {'name': 'Spiky vambraces', 'level': 32}
+ - {'name': 'Coif', 'level': 38}
+ - {'name': 'Hard leather shield', 'level': 41}
+ - {'name': 'Studded body', 'level': 41}
+ - {'name': 'Studded chaps', 'level': 44}
+ - {'name': "Green d'hide vambraces", 'level': 57}
+ - {'name': "Green d'hide chaps", 'level': 60}
+ - {'name': "Green d'hide shield", 'level': 62}
+ - {'name': "Green d'hide body", 'level': 63}
+ - {'name': "Blue d'hide vambraces", 'level': 66}
+ - {'name': "Blue d'hide chaps", 'level': 68}
+ - {'name': "Blue d'hide shield", 'level': 69}
+ - {'name': "Blue d'hide body", 'level': 71}
+ - {'name': "Red d'hide vambraces", 'level': 73}
+ - {'name': "Red d'hide chaps", 'level': 75}
+ - {'name': "Red d'hide shield", 'level': 76}
+ - {'name': "Red d'hide body", 'level': 77}
+ - {'name': 'Broodoo shield', 'level': 35}
+ - {'name': 'Snakeskin boots', 'level': 45}
+ - {'name': 'Snakeskin vambraces', 'level': 47}
+ - {'name': 'Snakeskin bandana', 'level': 48}
+ - {'name': 'Snakeskin chaps', 'level': 51}
+ - {'name': 'Snakeskin body', 'level': 53}
+ - {'name': 'Snakeskin shield', 'level': 56}
+ - {'name': 'Yak-hide armour (legs)', 'level': 43}
+ - {'name': 'Yak-hide armour (top)', 'level': 46}
+ - {'name': "Pointed blood'n'tar snelm", 'level': 15}
+ - {'name': "Blood'n'tar snelm", 'level': 15}
+ - {'name': 'Broken bark snelm', 'level': 15}
+ - {'name': 'Pointed bruise blue snelm', 'level': 15}
+ - {'name': 'Bruise blue snelm', 'level': 15}
+ - {'name': 'Pointed myre snelm', 'level': 15}
+ - {'name': 'Myre snelm', 'level': 15}
+ - {'name': 'Pointed ochre snelm', 'level': 15}
+ - {'name': 'Ochre snelm', 'level': 15}
+ - {'name': 'Crab helmet', 'level': 15}
+ - {'name': 'Crab claw', 'level': 15}
+ - {'name': 'Xerician hat', 'level': 14}
+ - {'name': 'Xerician robe', 'level': 17}
+ - {'name': 'Xerician top', 'level': 22}
+ - {'name': 'Splitbark gauntlets', 'level': 60}
+ - {'name': 'Splitbark boots', 'level': 60}
+ - {'name': 'Splitbark helm', 'level': 61}
+ - {'name': 'Splitbark legs', 'level': 62}
+ - {'name': 'Splitbark body', 'level': 62}
+ - {'name': 'Mixed hide cape', 'level': 68}
+ - {'name': 'Mixed hide boots', 'level': 69}
+ - {'name': 'Mixed hide legs', 'level': 71}
+ - {'name': 'Mixed hide top', 'level': 72}
+ - {'name': 'Beer glass', 'level': 1}
+ - {'name': 'Empty candle lantern', 'level': 4}
+ - {'name': 'Empty oil lamp', 'level': 12}
+ - {'name': 'Oil lantern', 'level': 26}
+ - {'name': 'Vial', 'level': 33}
+ - {'name': 'Fishbowl', 'level': 42}
+ - {'name': 'Unpowered orb', 'level': 46}
+ - {'name': 'Lantern lens', 'level': 49}
+ - {'name': 'Opal', 'level': 1}
+ - {'name': 'Jade', 'level': 13}
+ - {'name': 'Red topaz', 'level': 16}
+ - {'name': 'Sapphire', 'level': 20}
+ - {'name': 'Emerald', 'level': 27}
+ - {'name': 'Ruby', 'level': 34}
+ - {'name': 'Diamond', 'level': 43}
+ - {'name': 'Dragonstone', 'level': 55}
+ - {'name': 'Onyx', 'level': 67}
+ - {'name': 'Opal ring', 'level': 1}
+ - {'name': 'Opal necklace', 'level': 16}
+ - {'name': 'Opal bracelet', 'level': 22}
+ - {'name': 'Opal amulet (u)', 'level': 27}
+ - {'name': 'Jade ring', 'level': 13}
+ - {'name': 'Jade necklace', 'level': 25}
+ - {'name': 'Jade bracelet', 'level': 29}
+ - {'name': 'Jade amulet (u)', 'level': 34}
+ - {'name': 'Topaz ring', 'level': 16}
+ - {'name': 'Topaz necklace', 'level': 32}
+ - {'name': 'Topaz bracelet', 'level': 38}
+ - {'name': 'Topaz amulet (u)', 'level': 45}
+ - {'name': 'Gold ring', 'level': 5}
+ - {'name': 'Gold necklace', 'level': 6}
+ - {'name': 'Gold bracelet', 'level': 7}
+ - {'name': 'Gold amulet (u)', 'level': 8}
+ - {'name': 'Sapphire ring', 'level': 20}
+ - {'name': 'Sapphire necklace', 'level': 22}
+ - {'name': 'Sapphire bracelet', 'level': 23}
+ - {'name': 'Sapphire amulet (u)', 'level': 24}
+ - {'name': 'Emerald ring', 'level': 27}
+ - {'name': 'Emerald necklace', 'level': 29}
+ - {'name': 'Emerald bracelet', 'level': 30}
+ - {'name': 'Emerald amulet (u)', 'level': 31}
+ - {'name': 'Ruby ring', 'level': 34}
+ - {'name': 'Ruby necklace', 'level': 40}
+ - {'name': 'Ruby bracelet', 'level': 42}
+ - {'name': 'Gold tiara', 'level': 42}
+ - {'name': 'Ruby amulet (u)', 'level': 50}
+ - {'name': 'Diamond ring', 'level': 43}
+ - {'name': 'Diamond necklace', 'level': 56}
+ - {'name': 'Diamond bracelet', 'level': 58}
+ - {'name': 'Diamond amulet (u)', 'level': 70}
+ - {'name': 'Dragonstone ring', 'level': 55}
+ - {'name': 'Dragon necklace', 'level': 72}
+ - {'name': 'Dragonstone bracelet', 'level': 74}
+ - {'name': 'Slayer ring', 'level': 75}
+ - {'name': 'Slayer ring (eternal)', 'level': 75}
+ - {'name': 'Onyx ring', 'level': 67}
+ - {'name': 'Silver sickle', 'level': 18}
+ - {'name': 'Silver bolts (unf)', 'level': 21}
+ - {'name': 'Water battlestaff', 'level': 54}
+ - {'name': 'Earth battlestaff', 'level': 58}
+ - {'name': 'Fire battlestaff', 'level': 62}
+ - {'name': 'Air battlestaff', 'level': 66}
+ - {'name': 'Unstrung symbol', 'level': 16}
+ - {'name': 'Unstrung emblem', 'level': 17}
+ - {'name': 'Tiara', 'level': 23}
+ - {'name': 'Bird house', 'level': 5}
+ - {'name': 'Oak bird house', 'level': 15}
+ - {'name': 'Willow bird house', 'level': 25}
+ - {'name': 'Teak bird house', 'level': 35}
+ - {'name': 'Maple bird house', 'level': 45}
+ - {'name': 'Mahogany bird house', 'level': 50}
+ - {'name': 'Yew bird house', 'level': 60}
+ - {'name': 'Magic bird house', 'level': 75}
+
+[2025-05-05 09:59:38.304699] Username: theroach, Crafting Level: 78
+ - {'name': 'Ball of wool', 'level': 1, 'id': 1759}
+ - {'name': 'Bow string', 'level': 10, 'id': 1777}
+ - {'name': 'Crossbow string', 'level': 10, 'id': 9438}
+ - {'name': 'Magic string', 'level': 19, 'id': 6038}
+ - {'name': 'Rope', 'level': 30, 'id': 954}
+ - {'name': 'Empty sack', 'level': 21, 'id': 5418}
+ - {'name': 'Drift net', 'level': 26, 'id': 21652}
+ - {'name': 'Basket', 'level': 36, 'id': 5376}
+ - {'name': 'Pot', 'level': 1, 'id': 1931}
+ - {'name': 'Empty cup', 'level': 3, 'id': 1980}
+ - {'name': 'Pie dish', 'level': 7, 'id': 2313}
+ - {'name': 'Bowl', 'level': 8, 'id': 1923}
+ - {'name': 'Empty plant pot', 'level': 19, 'id': 5350}
+ - {'name': 'Pot lid', 'level': 25, 'id': 4440}
+ - {'name': 'Leather gloves', 'level': 1, 'id': 1059}
+ - {'name': 'Leather boots', 'level': 7, 'id': 1061}
+ - {'name': 'Leather cowl', 'level': 9, 'id': 1167}
+ - {'name': 'Leather vambraces', 'level': 11, 'id': 1063}
+ - {'name': 'Leather body', 'level': 14, 'id': 1129}
+ - {'name': 'Leather chaps', 'level': 18, 'id': 1095}
+ - {'name': 'Hardleather body', 'level': 28, 'id': 1131}
+ - {'name': 'Spiky vambraces', 'level': 32, 'id': 10077}
+ - {'name': 'Coif', 'level': 38, 'id': 1169}
+ - {'name': 'Hard leather shield', 'level': 41, 'id': 22269}
+ - {'name': 'Studded body', 'level': 41, 'id': 1133}
+ - {'name': 'Studded chaps', 'level': 44, 'id': 1097}
+ - {'name': "Green d'hide vambraces", 'level': 57, 'id': 1065}
+ - {'name': "Green d'hide chaps", 'level': 60, 'id': 1099}
+ - {'name': "Green d'hide shield", 'level': 62, 'id': 22275}
+ - {'name': "Green d'hide body", 'level': 63, 'id': 1135}
+ - {'name': "Blue d'hide vambraces", 'level': 66, 'id': 2487}
+ - {'name': "Blue d'hide chaps", 'level': 68, 'id': 2493}
+ - {'name': "Blue d'hide shield", 'level': 69, 'id': 22278}
+ - {'name': "Blue d'hide body", 'level': 71, 'id': 2499}
+ - {'name': "Red d'hide vambraces", 'level': 73, 'id': 2489}
+ - {'name': "Red d'hide chaps", 'level': 75, 'id': 2495}
+ - {'name': "Red d'hide shield", 'level': 76, 'id': 22281}
+ - {'name': "Red d'hide body", 'level': 77, 'id': 2501}
+ - {'name': 'Snakeskin boots', 'level': 45, 'id': 6328}
+ - {'name': 'Snakeskin vambraces', 'level': 47, 'id': 6330}
+ - {'name': 'Snakeskin bandana', 'level': 48, 'id': 6326}
+ - {'name': 'Snakeskin chaps', 'level': 51, 'id': 6324}
+ - {'name': 'Snakeskin body', 'level': 53, 'id': 6322}
+ - {'name': 'Snakeskin shield', 'level': 56, 'id': 22272}
+ - {'name': 'Yak-hide armour (legs)', 'level': 43, 'id': 10824}
+ - {'name': 'Yak-hide armour (top)', 'level': 46, 'id': 10822}
+ - {'name': "Pointed blood'n'tar snelm", 'level': 15, 'id': 3339}
+ - {'name': "Blood'n'tar snelm", 'level': 15, 'id': 3329}
+ - {'name': 'Broken bark snelm', 'level': 15, 'id': 3335}
+ - {'name': 'Pointed bruise blue snelm', 'level': 15, 'id': 3343}
+ - {'name': 'Bruise blue snelm', 'level': 15, 'id': 3333}
+ - {'name': 'Pointed myre snelm', 'level': 15, 'id': 3337}
+ - {'name': 'Myre snelm', 'level': 15, 'id': 3327}
+ - {'name': 'Pointed ochre snelm', 'level': 15, 'id': 3341}
+ - {'name': 'Ochre snelm', 'level': 15, 'id': 3331}
+ - {'name': 'Xerician hat', 'level': 14, 'id': 13385}
+ - {'name': 'Xerician robe', 'level': 17, 'id': 13389}
+ - {'name': 'Xerician top', 'level': 22, 'id': 13387}
+ - {'name': 'Splitbark gauntlets', 'level': 60, 'id': 3391}
+ - {'name': 'Splitbark boots', 'level': 60, 'id': 3393}
+ - {'name': 'Splitbark helm', 'level': 61, 'id': 3385}
+ - {'name': 'Splitbark legs', 'level': 62, 'id': 3389}
+ - {'name': 'Splitbark body', 'level': 62, 'id': 3387}
+ - {'name': 'Mixed hide cape', 'level': 68, 'id': 29289}
+ - {'name': 'Mixed hide boots', 'level': 69, 'id': 29286}
+ - {'name': 'Mixed hide legs', 'level': 71, 'id': 29283}
+ - {'name': 'Mixed hide top', 'level': 72, 'id': 29280}
+ - {'name': 'Beer glass', 'level': 1, 'id': 1919}
+ - {'name': 'Empty candle lantern', 'level': 4, 'id': 4527}
+ - {'name': 'Empty oil lamp', 'level': 12, 'id': 4525}
+ - {'name': 'Oil lantern', 'level': 26, 'id': 4537}
+ - {'name': 'Vial', 'level': 33, 'id': 229}
+ - {'name': 'Unpowered orb', 'level': 46, 'id': 567}
+ - {'name': 'Lantern lens', 'level': 49, 'id': 4542}
+ - {'name': 'Opal', 'level': 1, 'id': 1609}
+ - {'name': 'Jade', 'level': 13, 'id': 1611}
+ - {'name': 'Red topaz', 'level': 16, 'id': 1613}
+ - {'name': 'Sapphire', 'level': 20, 'id': 1607}
+ - {'name': 'Emerald', 'level': 27, 'id': 1605}
+ - {'name': 'Ruby', 'level': 34, 'id': 1603}
+ - {'name': 'Diamond', 'level': 43, 'id': 1601}
+ - {'name': 'Dragonstone', 'level': 55, 'id': 1615}
+ - {'name': 'Onyx', 'level': 67, 'id': 6573}
+ - {'name': 'Opal ring', 'level': 1, 'id': 21081}
+ - {'name': 'Opal necklace', 'level': 16, 'id': 21090}
+ - {'name': 'Opal bracelet', 'level': 22, 'id': 21117}
+ - {'name': 'Opal amulet (u)', 'level': 27, 'id': 21099}
+ - {'name': 'Jade ring', 'level': 13, 'id': 21084}
+ - {'name': 'Jade necklace', 'level': 25, 'id': 21093}
+ - {'name': 'Jade bracelet', 'level': 29, 'id': 21120}
+ - {'name': 'Jade amulet (u)', 'level': 34, 'id': 21102}
+ - {'name': 'Topaz ring', 'level': 16, 'id': 21087}
+ - {'name': 'Topaz necklace', 'level': 32, 'id': 21096}
+ - {'name': 'Topaz bracelet', 'level': 38, 'id': 21123}
+ - {'name': 'Topaz amulet (u)', 'level': 45, 'id': 21105}
+ - {'name': 'Gold ring', 'level': 5, 'id': 1635}
+ - {'name': 'Gold necklace', 'level': 6, 'id': 1654}
+ - {'name': 'Gold bracelet', 'level': 7, 'id': 11069}
+ - {'name': 'Gold amulet (u)', 'level': 8, 'id': 1673}
+ - {'name': 'Sapphire ring', 'level': 20, 'id': 1637}
+ - {'name': 'Sapphire necklace', 'level': 22, 'id': 1656}
+ - {'name': 'Sapphire bracelet', 'level': 23, 'id': 11072}
+ - {'name': 'Sapphire amulet (u)', 'level': 24, 'id': 1675}
+ - {'name': 'Emerald ring', 'level': 27, 'id': 1639}
+ - {'name': 'Emerald necklace', 'level': 29, 'id': 1658}
+ - {'name': 'Emerald bracelet', 'level': 30, 'id': 11076}
+ - {'name': 'Emerald amulet (u)', 'level': 31, 'id': 1677}
+ - {'name': 'Ruby ring', 'level': 34, 'id': 1641}
+ - {'name': 'Ruby necklace', 'level': 40, 'id': 1660}
+ - {'name': 'Ruby bracelet', 'level': 42, 'id': 11085}
+ - {'name': 'Gold tiara', 'level': 42, 'id': 26788}
+ - {'name': 'Ruby amulet (u)', 'level': 50, 'id': 1679}
+ - {'name': 'Diamond ring', 'level': 43, 'id': 1643}
+ - {'name': 'Diamond necklace', 'level': 56, 'id': 1662}
+ - {'name': 'Diamond bracelet', 'level': 58, 'id': 11092}
+ - {'name': 'Diamond amulet (u)', 'level': 70, 'id': 1681}
+ - {'name': 'Dragonstone ring', 'level': 55, 'id': 1645}
+ - {'name': 'Dragon necklace', 'level': 72, 'id': 1664}
+ - {'name': 'Dragonstone bracelet', 'level': 74, 'id': 11115}
+ - {'name': 'Onyx ring', 'level': 67, 'id': 6575}
+ - {'name': 'Silver sickle', 'level': 18, 'id': 2961}
+ - {'name': 'Silver bolts (unf)', 'level': 21, 'id': 9382}
+ - {'name': 'Water battlestaff', 'level': 54, 'id': 1395}
+ - {'name': 'Earth battlestaff', 'level': 58, 'id': 1399}
+ - {'name': 'Fire battlestaff', 'level': 62, 'id': 1393}
+ - {'name': 'Air battlestaff', 'level': 66, 'id': 1397}
+ - {'name': 'Unstrung symbol', 'level': 16, 'id': 1714}
+ - {'name': 'Unstrung emblem', 'level': 17, 'id': 1720}
+ - {'name': 'Tiara', 'level': 23, 'id': 5525}
+ - {'name': 'Bird house', 'level': 5, 'id': 21512}
+ - {'name': 'Oak bird house', 'level': 15, 'id': 21515}
+ - {'name': 'Willow bird house', 'level': 25, 'id': 21518}
+ - {'name': 'Teak bird house', 'level': 35, 'id': 21521}
+ - {'name': 'Maple bird house', 'level': 45, 'id': 22192}
+ - {'name': 'Mahogany bird house', 'level': 50, 'id': 22195}
+ - {'name': 'Yew bird house', 'level': 60, 'id': 22198}
+ - {'name': 'Magic bird house', 'level': 75, 'id': 22201}
+
+[2025-05-05 10:00:00.546998] Username: theroach, Crafting Level: 78
+ - {'name': 'Ball of wool', 'level': 1, 'id': 1759}
+ - {'name': 'Bow string', 'level': 10, 'id': 1777}
+ - {'name': 'Crossbow string', 'level': 10, 'id': 9438}
+ - {'name': 'Magic string', 'level': 19, 'id': 6038}
+ - {'name': 'Rope', 'level': 30, 'id': 954}
+ - {'name': 'Empty sack', 'level': 21, 'id': 5418}
+ - {'name': 'Drift net', 'level': 26, 'id': 21652}
+ - {'name': 'Basket', 'level': 36, 'id': 5376}
+ - {'name': 'Pot', 'level': 1, 'id': 1931}
+ - {'name': 'Empty cup', 'level': 3, 'id': 1980}
+ - {'name': 'Pie dish', 'level': 7, 'id': 2313}
+ - {'name': 'Bowl', 'level': 8, 'id': 1923}
+ - {'name': 'Empty plant pot', 'level': 19, 'id': 5350}
+ - {'name': 'Pot lid', 'level': 25, 'id': 4440}
+ - {'name': 'Leather gloves', 'level': 1, 'id': 1059}
+ - {'name': 'Leather boots', 'level': 7, 'id': 1061}
+ - {'name': 'Leather cowl', 'level': 9, 'id': 1167}
+ - {'name': 'Leather vambraces', 'level': 11, 'id': 1063}
+ - {'name': 'Leather body', 'level': 14, 'id': 1129}
+ - {'name': 'Leather chaps', 'level': 18, 'id': 1095}
+ - {'name': 'Hardleather body', 'level': 28, 'id': 1131}
+ - {'name': 'Spiky vambraces', 'level': 32, 'id': 10077}
+ - {'name': 'Coif', 'level': 38, 'id': 1169}
+ - {'name': 'Hard leather shield', 'level': 41, 'id': 22269}
+ - {'name': 'Studded body', 'level': 41, 'id': 1133}
+ - {'name': 'Studded chaps', 'level': 44, 'id': 1097}
+ - {'name': "Green d'hide vambraces", 'level': 57, 'id': 1065}
+ - {'name': "Green d'hide chaps", 'level': 60, 'id': 1099}
+ - {'name': "Green d'hide shield", 'level': 62, 'id': 22275}
+ - {'name': "Green d'hide body", 'level': 63, 'id': 1135}
+ - {'name': "Blue d'hide vambraces", 'level': 66, 'id': 2487}
+ - {'name': "Blue d'hide chaps", 'level': 68, 'id': 2493}
+ - {'name': "Blue d'hide shield", 'level': 69, 'id': 22278}
+ - {'name': "Blue d'hide body", 'level': 71, 'id': 2499}
+ - {'name': "Red d'hide vambraces", 'level': 73, 'id': 2489}
+ - {'name': "Red d'hide chaps", 'level': 75, 'id': 2495}
+ - {'name': "Red d'hide shield", 'level': 76, 'id': 22281}
+ - {'name': "Red d'hide body", 'level': 77, 'id': 2501}
+ - {'name': 'Snakeskin boots', 'level': 45, 'id': 6328}
+ - {'name': 'Snakeskin vambraces', 'level': 47, 'id': 6330}
+ - {'name': 'Snakeskin bandana', 'level': 48, 'id': 6326}
+ - {'name': 'Snakeskin chaps', 'level': 51, 'id': 6324}
+ - {'name': 'Snakeskin body', 'level': 53, 'id': 6322}
+ - {'name': 'Snakeskin shield', 'level': 56, 'id': 22272}
+ - {'name': 'Yak-hide armour (legs)', 'level': 43, 'id': 10824}
+ - {'name': 'Yak-hide armour (top)', 'level': 46, 'id': 10822}
+ - {'name': "Pointed blood'n'tar snelm", 'level': 15, 'id': 3339}
+ - {'name': "Blood'n'tar snelm", 'level': 15, 'id': 3329}
+ - {'name': 'Broken bark snelm', 'level': 15, 'id': 3335}
+ - {'name': 'Pointed bruise blue snelm', 'level': 15, 'id': 3343}
+ - {'name': 'Bruise blue snelm', 'level': 15, 'id': 3333}
+ - {'name': 'Pointed myre snelm', 'level': 15, 'id': 3337}
+ - {'name': 'Myre snelm', 'level': 15, 'id': 3327}
+ - {'name': 'Pointed ochre snelm', 'level': 15, 'id': 3341}
+ - {'name': 'Ochre snelm', 'level': 15, 'id': 3331}
+ - {'name': 'Xerician hat', 'level': 14, 'id': 13385}
+ - {'name': 'Xerician robe', 'level': 17, 'id': 13389}
+ - {'name': 'Xerician top', 'level': 22, 'id': 13387}
+ - {'name': 'Splitbark gauntlets', 'level': 60, 'id': 3391}
+ - {'name': 'Splitbark boots', 'level': 60, 'id': 3393}
+ - {'name': 'Splitbark helm', 'level': 61, 'id': 3385}
+ - {'name': 'Splitbark legs', 'level': 62, 'id': 3389}
+ - {'name': 'Splitbark body', 'level': 62, 'id': 3387}
+ - {'name': 'Mixed hide cape', 'level': 68, 'id': 29289}
+ - {'name': 'Mixed hide boots', 'level': 69, 'id': 29286}
+ - {'name': 'Mixed hide legs', 'level': 71, 'id': 29283}
+ - {'name': 'Mixed hide top', 'level': 72, 'id': 29280}
+ - {'name': 'Beer glass', 'level': 1, 'id': 1919}
+ - {'name': 'Empty candle lantern', 'level': 4, 'id': 4527}
+ - {'name': 'Empty oil lamp', 'level': 12, 'id': 4525}
+ - {'name': 'Oil lantern', 'level': 26, 'id': 4537}
+ - {'name': 'Vial', 'level': 33, 'id': 229}
+ - {'name': 'Unpowered orb', 'level': 46, 'id': 567}
+ - {'name': 'Lantern lens', 'level': 49, 'id': 4542}
+ - {'name': 'Opal', 'level': 1, 'id': 1609}
+ - {'name': 'Jade', 'level': 13, 'id': 1611}
+ - {'name': 'Red topaz', 'level': 16, 'id': 1613}
+ - {'name': 'Sapphire', 'level': 20, 'id': 1607}
+ - {'name': 'Emerald', 'level': 27, 'id': 1605}
+ - {'name': 'Ruby', 'level': 34, 'id': 1603}
+ - {'name': 'Diamond', 'level': 43, 'id': 1601}
+ - {'name': 'Dragonstone', 'level': 55, 'id': 1615}
+ - {'name': 'Onyx', 'level': 67, 'id': 6573}
+ - {'name': 'Opal ring', 'level': 1, 'id': 21081}
+ - {'name': 'Opal necklace', 'level': 16, 'id': 21090}
+ - {'name': 'Opal bracelet', 'level': 22, 'id': 21117}
+ - {'name': 'Opal amulet (u)', 'level': 27, 'id': 21099}
+ - {'name': 'Jade ring', 'level': 13, 'id': 21084}
+ - {'name': 'Jade necklace', 'level': 25, 'id': 21093}
+ - {'name': 'Jade bracelet', 'level': 29, 'id': 21120}
+ - {'name': 'Jade amulet (u)', 'level': 34, 'id': 21102}
+ - {'name': 'Topaz ring', 'level': 16, 'id': 21087}
+ - {'name': 'Topaz necklace', 'level': 32, 'id': 21096}
+ - {'name': 'Topaz bracelet', 'level': 38, 'id': 21123}
+ - {'name': 'Topaz amulet (u)', 'level': 45, 'id': 21105}
+ - {'name': 'Gold ring', 'level': 5, 'id': 1635}
+ - {'name': 'Gold necklace', 'level': 6, 'id': 1654}
+ - {'name': 'Gold bracelet', 'level': 7, 'id': 11069}
+ - {'name': 'Gold amulet (u)', 'level': 8, 'id': 1673}
+ - {'name': 'Sapphire ring', 'level': 20, 'id': 1637}
+ - {'name': 'Sapphire necklace', 'level': 22, 'id': 1656}
+ - {'name': 'Sapphire bracelet', 'level': 23, 'id': 11072}
+ - {'name': 'Sapphire amulet (u)', 'level': 24, 'id': 1675}
+ - {'name': 'Emerald ring', 'level': 27, 'id': 1639}
+ - {'name': 'Emerald necklace', 'level': 29, 'id': 1658}
+ - {'name': 'Emerald bracelet', 'level': 30, 'id': 11076}
+ - {'name': 'Emerald amulet (u)', 'level': 31, 'id': 1677}
+ - {'name': 'Ruby ring', 'level': 34, 'id': 1641}
+ - {'name': 'Ruby necklace', 'level': 40, 'id': 1660}
+ - {'name': 'Ruby bracelet', 'level': 42, 'id': 11085}
+ - {'name': 'Gold tiara', 'level': 42, 'id': 26788}
+ - {'name': 'Ruby amulet (u)', 'level': 50, 'id': 1679}
+ - {'name': 'Diamond ring', 'level': 43, 'id': 1643}
+ - {'name': 'Diamond necklace', 'level': 56, 'id': 1662}
+ - {'name': 'Diamond bracelet', 'level': 58, 'id': 11092}
+ - {'name': 'Diamond amulet (u)', 'level': 70, 'id': 1681}
+ - {'name': 'Dragonstone ring', 'level': 55, 'id': 1645}
+ - {'name': 'Dragon necklace', 'level': 72, 'id': 1664}
+ - {'name': 'Dragonstone bracelet', 'level': 74, 'id': 11115}
+ - {'name': 'Onyx ring', 'level': 67, 'id': 6575}
+ - {'name': 'Silver sickle', 'level': 18, 'id': 2961}
+ - {'name': 'Silver bolts (unf)', 'level': 21, 'id': 9382}
+ - {'name': 'Water battlestaff', 'level': 54, 'id': 1395}
+ - {'name': 'Earth battlestaff', 'level': 58, 'id': 1399}
+ - {'name': 'Fire battlestaff', 'level': 62, 'id': 1393}
+ - {'name': 'Air battlestaff', 'level': 66, 'id': 1397}
+ - {'name': 'Unstrung symbol', 'level': 16, 'id': 1714}
+ - {'name': 'Unstrung emblem', 'level': 17, 'id': 1720}
+ - {'name': 'Tiara', 'level': 23, 'id': 5525}
+ - {'name': 'Bird house', 'level': 5, 'id': 21512}
+ - {'name': 'Oak bird house', 'level': 15, 'id': 21515}
+ - {'name': 'Willow bird house', 'level': 25, 'id': 21518}
+ - {'name': 'Teak bird house', 'level': 35, 'id': 21521}
+ - {'name': 'Maple bird house', 'level': 45, 'id': 22192}
+ - {'name': 'Mahogany bird house', 'level': 50, 'id': 22195}
+ - {'name': 'Yew bird house', 'level': 60, 'id': 22198}
+ - {'name': 'Magic bird house', 'level': 75, 'id': 22201}
+
+[2025-05-05 10:00:09.773871] Username: theroach, Crafting Level: 78
+ - {'name': 'Ball of wool', 'level': 1, 'id': 1759}
+ - {'name': 'Bow string', 'level': 10, 'id': 1777}
+ - {'name': 'Crossbow string', 'level': 10, 'id': 9438}
+ - {'name': 'Magic string', 'level': 19, 'id': 6038}
+ - {'name': 'Rope', 'level': 30, 'id': 954}
+ - {'name': 'Empty sack', 'level': 21, 'id': 5418}
+ - {'name': 'Drift net', 'level': 26, 'id': 21652}
+ - {'name': 'Basket', 'level': 36, 'id': 5376}
+ - {'name': 'Pot', 'level': 1, 'id': 1931}
+ - {'name': 'Empty cup', 'level': 3, 'id': 1980}
+ - {'name': 'Pie dish', 'level': 7, 'id': 2313}
+ - {'name': 'Bowl', 'level': 8, 'id': 1923}
+ - {'name': 'Empty plant pot', 'level': 19, 'id': 5350}
+ - {'name': 'Pot lid', 'level': 25, 'id': 4440}
+ - {'name': 'Leather gloves', 'level': 1, 'id': 1059}
+ - {'name': 'Leather boots', 'level': 7, 'id': 1061}
+ - {'name': 'Leather cowl', 'level': 9, 'id': 1167}
+ - {'name': 'Leather vambraces', 'level': 11, 'id': 1063}
+ - {'name': 'Leather body', 'level': 14, 'id': 1129}
+ - {'name': 'Leather chaps', 'level': 18, 'id': 1095}
+ - {'name': 'Hardleather body', 'level': 28, 'id': 1131}
+ - {'name': 'Spiky vambraces', 'level': 32, 'id': 10077}
+ - {'name': 'Coif', 'level': 38, 'id': 1169}
+ - {'name': 'Hard leather shield', 'level': 41, 'id': 22269}
+ - {'name': 'Studded body', 'level': 41, 'id': 1133}
+ - {'name': 'Studded chaps', 'level': 44, 'id': 1097}
+ - {'name': "Green d'hide vambraces", 'level': 57, 'id': 1065}
+ - {'name': "Green d'hide chaps", 'level': 60, 'id': 1099}
+ - {'name': "Green d'hide shield", 'level': 62, 'id': 22275}
+ - {'name': "Green d'hide body", 'level': 63, 'id': 1135}
+ - {'name': "Blue d'hide vambraces", 'level': 66, 'id': 2487}
+ - {'name': "Blue d'hide chaps", 'level': 68, 'id': 2493}
+ - {'name': "Blue d'hide shield", 'level': 69, 'id': 22278}
+ - {'name': "Blue d'hide body", 'level': 71, 'id': 2499}
+ - {'name': "Red d'hide vambraces", 'level': 73, 'id': 2489}
+ - {'name': "Red d'hide chaps", 'level': 75, 'id': 2495}
+ - {'name': "Red d'hide shield", 'level': 76, 'id': 22281}
+ - {'name': "Red d'hide body", 'level': 77, 'id': 2501}
+ - {'name': 'Snakeskin boots', 'level': 45, 'id': 6328}
+ - {'name': 'Snakeskin vambraces', 'level': 47, 'id': 6330}
+ - {'name': 'Snakeskin bandana', 'level': 48, 'id': 6326}
+ - {'name': 'Snakeskin chaps', 'level': 51, 'id': 6324}
+ - {'name': 'Snakeskin body', 'level': 53, 'id': 6322}
+ - {'name': 'Snakeskin shield', 'level': 56, 'id': 22272}
+ - {'name': 'Yak-hide armour (legs)', 'level': 43, 'id': 10824}
+ - {'name': 'Yak-hide armour (top)', 'level': 46, 'id': 10822}
+ - {'name': "Pointed blood'n'tar snelm", 'level': 15, 'id': 3339}
+ - {'name': "Blood'n'tar snelm", 'level': 15, 'id': 3329}
+ - {'name': 'Broken bark snelm', 'level': 15, 'id': 3335}
+ - {'name': 'Pointed bruise blue snelm', 'level': 15, 'id': 3343}
+ - {'name': 'Bruise blue snelm', 'level': 15, 'id': 3333}
+ - {'name': 'Pointed myre snelm', 'level': 15, 'id': 3337}
+ - {'name': 'Myre snelm', 'level': 15, 'id': 3327}
+ - {'name': 'Pointed ochre snelm', 'level': 15, 'id': 3341}
+ - {'name': 'Ochre snelm', 'level': 15, 'id': 3331}
+ - {'name': 'Xerician hat', 'level': 14, 'id': 13385}
+ - {'name': 'Xerician robe', 'level': 17, 'id': 13389}
+ - {'name': 'Xerician top', 'level': 22, 'id': 13387}
+ - {'name': 'Splitbark gauntlets', 'level': 60, 'id': 3391}
+ - {'name': 'Splitbark boots', 'level': 60, 'id': 3393}
+ - {'name': 'Splitbark helm', 'level': 61, 'id': 3385}
+ - {'name': 'Splitbark legs', 'level': 62, 'id': 3389}
+ - {'name': 'Splitbark body', 'level': 62, 'id': 3387}
+ - {'name': 'Mixed hide cape', 'level': 68, 'id': 29289}
+ - {'name': 'Mixed hide boots', 'level': 69, 'id': 29286}
+ - {'name': 'Mixed hide legs', 'level': 71, 'id': 29283}
+ - {'name': 'Mixed hide top', 'level': 72, 'id': 29280}
+ - {'name': 'Beer glass', 'level': 1, 'id': 1919}
+ - {'name': 'Empty candle lantern', 'level': 4, 'id': 4527}
+ - {'name': 'Empty oil lamp', 'level': 12, 'id': 4525}
+ - {'name': 'Oil lantern', 'level': 26, 'id': 4537}
+ - {'name': 'Vial', 'level': 33, 'id': 229}
+ - {'name': 'Unpowered orb', 'level': 46, 'id': 567}
+ - {'name': 'Lantern lens', 'level': 49, 'id': 4542}
+ - {'name': 'Opal', 'level': 1, 'id': 1609}
+ - {'name': 'Jade', 'level': 13, 'id': 1611}
+ - {'name': 'Red topaz', 'level': 16, 'id': 1613}
+ - {'name': 'Sapphire', 'level': 20, 'id': 1607}
+ - {'name': 'Emerald', 'level': 27, 'id': 1605}
+ - {'name': 'Ruby', 'level': 34, 'id': 1603}
+ - {'name': 'Diamond', 'level': 43, 'id': 1601}
+ - {'name': 'Dragonstone', 'level': 55, 'id': 1615}
+ - {'name': 'Onyx', 'level': 67, 'id': 6573}
+ - {'name': 'Opal ring', 'level': 1, 'id': 21081}
+ - {'name': 'Opal necklace', 'level': 16, 'id': 21090}
+ - {'name': 'Opal bracelet', 'level': 22, 'id': 21117}
+ - {'name': 'Opal amulet (u)', 'level': 27, 'id': 21099}
+ - {'name': 'Jade ring', 'level': 13, 'id': 21084}
+ - {'name': 'Jade necklace', 'level': 25, 'id': 21093}
+ - {'name': 'Jade bracelet', 'level': 29, 'id': 21120}
+ - {'name': 'Jade amulet (u)', 'level': 34, 'id': 21102}
+ - {'name': 'Topaz ring', 'level': 16, 'id': 21087}
+ - {'name': 'Topaz necklace', 'level': 32, 'id': 21096}
+ - {'name': 'Topaz bracelet', 'level': 38, 'id': 21123}
+ - {'name': 'Topaz amulet (u)', 'level': 45, 'id': 21105}
+ - {'name': 'Gold ring', 'level': 5, 'id': 1635}
+ - {'name': 'Gold necklace', 'level': 6, 'id': 1654}
+ - {'name': 'Gold bracelet', 'level': 7, 'id': 11069}
+ - {'name': 'Gold amulet (u)', 'level': 8, 'id': 1673}
+ - {'name': 'Sapphire ring', 'level': 20, 'id': 1637}
+ - {'name': 'Sapphire necklace', 'level': 22, 'id': 1656}
+ - {'name': 'Sapphire bracelet', 'level': 23, 'id': 11072}
+ - {'name': 'Sapphire amulet (u)', 'level': 24, 'id': 1675}
+ - {'name': 'Emerald ring', 'level': 27, 'id': 1639}
+ - {'name': 'Emerald necklace', 'level': 29, 'id': 1658}
+ - {'name': 'Emerald bracelet', 'level': 30, 'id': 11076}
+ - {'name': 'Emerald amulet (u)', 'level': 31, 'id': 1677}
+ - {'name': 'Ruby ring', 'level': 34, 'id': 1641}
+ - {'name': 'Ruby necklace', 'level': 40, 'id': 1660}
+ - {'name': 'Ruby bracelet', 'level': 42, 'id': 11085}
+ - {'name': 'Gold tiara', 'level': 42, 'id': 26788}
+ - {'name': 'Ruby amulet (u)', 'level': 50, 'id': 1679}
+ - {'name': 'Diamond ring', 'level': 43, 'id': 1643}
+ - {'name': 'Diamond necklace', 'level': 56, 'id': 1662}
+ - {'name': 'Diamond bracelet', 'level': 58, 'id': 11092}
+ - {'name': 'Diamond amulet (u)', 'level': 70, 'id': 1681}
+ - {'name': 'Dragonstone ring', 'level': 55, 'id': 1645}
+ - {'name': 'Dragon necklace', 'level': 72, 'id': 1664}
+ - {'name': 'Dragonstone bracelet', 'level': 74, 'id': 11115}
+ - {'name': 'Onyx ring', 'level': 67, 'id': 6575}
+ - {'name': 'Silver sickle', 'level': 18, 'id': 2961}
+ - {'name': 'Silver bolts (unf)', 'level': 21, 'id': 9382}
+ - {'name': 'Water battlestaff', 'level': 54, 'id': 1395}
+ - {'name': 'Earth battlestaff', 'level': 58, 'id': 1399}
+ - {'name': 'Fire battlestaff', 'level': 62, 'id': 1393}
+ - {'name': 'Air battlestaff', 'level': 66, 'id': 1397}
+ - {'name': 'Unstrung symbol', 'level': 16, 'id': 1714}
+ - {'name': 'Unstrung emblem', 'level': 17, 'id': 1720}
+ - {'name': 'Tiara', 'level': 23, 'id': 5525}
+ - {'name': 'Bird house', 'level': 5, 'id': 21512}
+ - {'name': 'Oak bird house', 'level': 15, 'id': 21515}
+ - {'name': 'Willow bird house', 'level': 25, 'id': 21518}
+ - {'name': 'Teak bird house', 'level': 35, 'id': 21521}
+ - {'name': 'Maple bird house', 'level': 45, 'id': 22192}
+ - {'name': 'Mahogany bird house', 'level': 50, 'id': 22195}
+ - {'name': 'Yew bird house', 'level': 60, 'id': 22198}
+ - {'name': 'Magic bird house', 'level': 75, 'id': 22201}
+
+[2025-05-05 10:02:02.249575] Username: theroach, Crafting Level: 78
+ - {'name': 'Ball of wool', 'level': 1, 'id': 1759}
+ - {'name': 'Bow string', 'level': 10, 'id': 1777}
+ - {'name': 'Crossbow string', 'level': 10, 'id': 9438}
+ - {'name': 'Magic string', 'level': 19, 'id': 6038}
+ - {'name': 'Rope', 'level': 30, 'id': 954}
+ - {'name': 'Empty sack', 'level': 21, 'id': 5418}
+ - {'name': 'Drift net', 'level': 26, 'id': 21652}
+ - {'name': 'Basket', 'level': 36, 'id': 5376}
+ - {'name': 'Pot', 'level': 1, 'id': 1931}
+ - {'name': 'Empty cup', 'level': 3, 'id': 1980}
+ - {'name': 'Pie dish', 'level': 7, 'id': 2313}
+ - {'name': 'Bowl', 'level': 8, 'id': 1923}
+ - {'name': 'Empty plant pot', 'level': 19, 'id': 5350}
+ - {'name': 'Pot lid', 'level': 25, 'id': 4440}
+ - {'name': 'Leather gloves', 'level': 1, 'id': 1059}
+ - {'name': 'Leather boots', 'level': 7, 'id': 1061}
+ - {'name': 'Leather cowl', 'level': 9, 'id': 1167}
+ - {'name': 'Leather vambraces', 'level': 11, 'id': 1063}
+ - {'name': 'Leather body', 'level': 14, 'id': 1129}
+ - {'name': 'Leather chaps', 'level': 18, 'id': 1095}
+ - {'name': 'Hardleather body', 'level': 28, 'id': 1131}
+ - {'name': 'Spiky vambraces', 'level': 32, 'id': 10077}
+ - {'name': 'Coif', 'level': 38, 'id': 1169}
+ - {'name': 'Hard leather shield', 'level': 41, 'id': 22269}
+ - {'name': 'Studded body', 'level': 41, 'id': 1133}
+ - {'name': 'Studded chaps', 'level': 44, 'id': 1097}
+ - {'name': "Green d'hide vambraces", 'level': 57, 'id': 1065}
+ - {'name': "Green d'hide chaps", 'level': 60, 'id': 1099}
+ - {'name': "Green d'hide shield", 'level': 62, 'id': 22275}
+ - {'name': "Green d'hide body", 'level': 63, 'id': 1135}
+ - {'name': "Blue d'hide vambraces", 'level': 66, 'id': 2487}
+ - {'name': "Blue d'hide chaps", 'level': 68, 'id': 2493}
+ - {'name': "Blue d'hide shield", 'level': 69, 'id': 22278}
+ - {'name': "Blue d'hide body", 'level': 71, 'id': 2499}
+ - {'name': "Red d'hide vambraces", 'level': 73, 'id': 2489}
+ - {'name': "Red d'hide chaps", 'level': 75, 'id': 2495}
+ - {'name': "Red d'hide shield", 'level': 76, 'id': 22281}
+ - {'name': "Red d'hide body", 'level': 77, 'id': 2501}
+ - {'name': 'Snakeskin boots', 'level': 45, 'id': 6328}
+ - {'name': 'Snakeskin vambraces', 'level': 47, 'id': 6330}
+ - {'name': 'Snakeskin bandana', 'level': 48, 'id': 6326}
+ - {'name': 'Snakeskin chaps', 'level': 51, 'id': 6324}
+ - {'name': 'Snakeskin body', 'level': 53, 'id': 6322}
+ - {'name': 'Snakeskin shield', 'level': 56, 'id': 22272}
+ - {'name': 'Yak-hide armour (legs)', 'level': 43, 'id': 10824}
+ - {'name': 'Yak-hide armour (top)', 'level': 46, 'id': 10822}
+ - {'name': "Pointed blood'n'tar snelm", 'level': 15, 'id': 3339}
+ - {'name': "Blood'n'tar snelm", 'level': 15, 'id': 3329}
+ - {'name': 'Broken bark snelm', 'level': 15, 'id': 3335}
+ - {'name': 'Pointed bruise blue snelm', 'level': 15, 'id': 3343}
+ - {'name': 'Bruise blue snelm', 'level': 15, 'id': 3333}
+ - {'name': 'Pointed myre snelm', 'level': 15, 'id': 3337}
+ - {'name': 'Myre snelm', 'level': 15, 'id': 3327}
+ - {'name': 'Pointed ochre snelm', 'level': 15, 'id': 3341}
+ - {'name': 'Ochre snelm', 'level': 15, 'id': 3331}
+ - {'name': 'Xerician hat', 'level': 14, 'id': 13385}
+ - {'name': 'Xerician robe', 'level': 17, 'id': 13389}
+ - {'name': 'Xerician top', 'level': 22, 'id': 13387}
+ - {'name': 'Splitbark gauntlets', 'level': 60, 'id': 3391}
+ - {'name': 'Splitbark boots', 'level': 60, 'id': 3393}
+ - {'name': 'Splitbark helm', 'level': 61, 'id': 3385}
+ - {'name': 'Splitbark legs', 'level': 62, 'id': 3389}
+ - {'name': 'Splitbark body', 'level': 62, 'id': 3387}
+ - {'name': 'Mixed hide cape', 'level': 68, 'id': 29289}
+ - {'name': 'Mixed hide boots', 'level': 69, 'id': 29286}
+ - {'name': 'Mixed hide legs', 'level': 71, 'id': 29283}
+ - {'name': 'Mixed hide top', 'level': 72, 'id': 29280}
+ - {'name': 'Beer glass', 'level': 1, 'id': 1919}
+ - {'name': 'Empty candle lantern', 'level': 4, 'id': 4527}
+ - {'name': 'Empty oil lamp', 'level': 12, 'id': 4525}
+ - {'name': 'Oil lantern', 'level': 26, 'id': 4537}
+ - {'name': 'Vial', 'level': 33, 'id': 229}
+ - {'name': 'Unpowered orb', 'level': 46, 'id': 567}
+ - {'name': 'Lantern lens', 'level': 49, 'id': 4542}
+ - {'name': 'Opal', 'level': 1, 'id': 1609}
+ - {'name': 'Jade', 'level': 13, 'id': 1611}
+ - {'name': 'Red topaz', 'level': 16, 'id': 1613}
+ - {'name': 'Sapphire', 'level': 20, 'id': 1607}
+ - {'name': 'Emerald', 'level': 27, 'id': 1605}
+ - {'name': 'Ruby', 'level': 34, 'id': 1603}
+ - {'name': 'Diamond', 'level': 43, 'id': 1601}
+ - {'name': 'Dragonstone', 'level': 55, 'id': 1615}
+ - {'name': 'Onyx', 'level': 67, 'id': 6573}
+ - {'name': 'Opal ring', 'level': 1, 'id': 21081}
+ - {'name': 'Opal necklace', 'level': 16, 'id': 21090}
+ - {'name': 'Opal bracelet', 'level': 22, 'id': 21117}
+ - {'name': 'Opal amulet (u)', 'level': 27, 'id': 21099}
+ - {'name': 'Jade ring', 'level': 13, 'id': 21084}
+ - {'name': 'Jade necklace', 'level': 25, 'id': 21093}
+ - {'name': 'Jade bracelet', 'level': 29, 'id': 21120}
+ - {'name': 'Jade amulet (u)', 'level': 34, 'id': 21102}
+ - {'name': 'Topaz ring', 'level': 16, 'id': 21087}
+ - {'name': 'Topaz necklace', 'level': 32, 'id': 21096}
+ - {'name': 'Topaz bracelet', 'level': 38, 'id': 21123}
+ - {'name': 'Topaz amulet (u)', 'level': 45, 'id': 21105}
+ - {'name': 'Gold ring', 'level': 5, 'id': 1635}
+ - {'name': 'Gold necklace', 'level': 6, 'id': 1654}
+ - {'name': 'Gold bracelet', 'level': 7, 'id': 11069}
+ - {'name': 'Gold amulet (u)', 'level': 8, 'id': 1673}
+ - {'name': 'Sapphire ring', 'level': 20, 'id': 1637}
+ - {'name': 'Sapphire necklace', 'level': 22, 'id': 1656}
+ - {'name': 'Sapphire bracelet', 'level': 23, 'id': 11072}
+ - {'name': 'Sapphire amulet (u)', 'level': 24, 'id': 1675}
+ - {'name': 'Emerald ring', 'level': 27, 'id': 1639}
+ - {'name': 'Emerald necklace', 'level': 29, 'id': 1658}
+ - {'name': 'Emerald bracelet', 'level': 30, 'id': 11076}
+ - {'name': 'Emerald amulet (u)', 'level': 31, 'id': 1677}
+ - {'name': 'Ruby ring', 'level': 34, 'id': 1641}
+ - {'name': 'Ruby necklace', 'level': 40, 'id': 1660}
+ - {'name': 'Ruby bracelet', 'level': 42, 'id': 11085}
+ - {'name': 'Gold tiara', 'level': 42, 'id': 26788}
+ - {'name': 'Ruby amulet (u)', 'level': 50, 'id': 1679}
+ - {'name': 'Diamond ring', 'level': 43, 'id': 1643}
+ - {'name': 'Diamond necklace', 'level': 56, 'id': 1662}
+ - {'name': 'Diamond bracelet', 'level': 58, 'id': 11092}
+ - {'name': 'Diamond amulet (u)', 'level': 70, 'id': 1681}
+ - {'name': 'Dragonstone ring', 'level': 55, 'id': 1645}
+ - {'name': 'Dragon necklace', 'level': 72, 'id': 1664}
+ - {'name': 'Dragonstone bracelet', 'level': 74, 'id': 11115}
+ - {'name': 'Onyx ring', 'level': 67, 'id': 6575}
+ - {'name': 'Silver sickle', 'level': 18, 'id': 2961}
+ - {'name': 'Silver bolts (unf)', 'level': 21, 'id': 9382}
+ - {'name': 'Water battlestaff', 'level': 54, 'id': 1395}
+ - {'name': 'Earth battlestaff', 'level': 58, 'id': 1399}
+ - {'name': 'Fire battlestaff', 'level': 62, 'id': 1393}
+ - {'name': 'Air battlestaff', 'level': 66, 'id': 1397}
+ - {'name': 'Unstrung symbol', 'level': 16, 'id': 1714}
+ - {'name': 'Unstrung emblem', 'level': 17, 'id': 1720}
+ - {'name': 'Tiara', 'level': 23, 'id': 5525}
+ - {'name': 'Bird house', 'level': 5, 'id': 21512}
+ - {'name': 'Oak bird house', 'level': 15, 'id': 21515}
+ - {'name': 'Willow bird house', 'level': 25, 'id': 21518}
+ - {'name': 'Teak bird house', 'level': 35, 'id': 21521}
+ - {'name': 'Maple bird house', 'level': 45, 'id': 22192}
+ - {'name': 'Mahogany bird house', 'level': 50, 'id': 22195}
+ - {'name': 'Yew bird house', 'level': 60, 'id': 22198}
+ - {'name': 'Magic bird house', 'level': 75, 'id': 22201}
